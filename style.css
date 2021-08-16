@@ -22,7 +22,7 @@ body {
   margin: 0;
 }
 
-/* mobile friendly alternative to using background-attachment: fixed */
+/* mobile friendly alternative to using  background-attachment: fixed */
 body::before {
   content: '';
   position: fixed;
