@@ -18,7 +18,7 @@ A freecodecamp project
 - CSS
 
 ## To get a local copy run the following steps:
-- Copy this link [this link](https://github.com/Whoistolu/fcc-test-suite-code-review/tree/main)
+- Copy [this link](https://github.com/Whoistolu/fcc-test-suite-code-review/tree/main)
 - Open your terminal or command line
 ~~~bash
 $ git clone https://github.com/Whoistolu/fcc-test-suite-code-review/tree/main
