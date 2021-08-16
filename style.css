@@ -34,9 +34,9 @@ body::before {
   background: var(--color-darkblue);
   background-image:
     linear-gradient(
-    115deg,
-    rgba(58, 58, 158, 0.8),
-    rgba(136, 136, 206, 0.7)
+      115deg,
+      rgba(58, 58, 158, 0.8),
+      rgba(136, 136, 206, 0.7)
     ),
     url(https://static.wixstatic.com/media/a01493bb8ec84e25a44424b088065876.jpg/v1/fill/w_1900,h_1226,al_c,q_90,usm_0.66_1.00_0.01/a01493bb8ec84e25a44424b088065876.webp);
   background-size: cover;
