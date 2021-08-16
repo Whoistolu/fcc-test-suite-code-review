@@ -34,14 +34,6 @@ A freecodecamp project
 - Twitter: [@twitterhandle](https://twitter.com/Littletolu)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/toluwase-ajise-9b40411b2/)
 
-
-👤 **Author2**
-
-- Name: Okot Daniel
-- GitHub: [@githubhandle](https://github.com/okotdaniel)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/okotdaniel/)
-
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -52,10 +44,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
+- Hat tip to Okot Daniel whom we built this together 9 months ago:
+- GitHub: [@githubhandle](https://github.com/okotdaniel)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/okotdaniel/)
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
