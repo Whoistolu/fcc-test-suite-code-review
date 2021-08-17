@@ -18,10 +18,12 @@ A freecodecamp project
 - CSS
 
 ## To get a local copy run the following steps:
-- Copy this link [this link](https://github.com/Whoistolu/fcc-test-suite-code-review/tree/main)
+- Copy [this link](https://github.com/Whoistolu/fcc-test-suite-code-review/tree/main)
 - Open your terminal or command line
-- Run "git clone Paste [this link](https://github.com/Whoistolu/fcc-test-suite-code-review/tree/main)"
-- Open the folder with your code editor
+~~~bash
+$ git clone https://github.com/Whoistolu/fcc-test-suite-code-review/tree/main
+$ cd  fcc-test-suite-code-review
+~~~
 - Create a branch to work on
 - Now You can edit the code and do a pull request
 
